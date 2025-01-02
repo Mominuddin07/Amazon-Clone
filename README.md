@@ -9,7 +9,7 @@
 <h3 align="center"></h3>
 
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Mominuddin07/AmazonClone?style=social">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Mominuddin07/Amazon-Clone?style=social">
   <a href="https://github.com/Mominuddin07/AmazonClone">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mominuddin07/AmazonClone">
   </a>
