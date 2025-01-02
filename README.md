@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <a href="#"> Amazon Clone</a>
+  <a href="https://amazonclones2022.netlify.app/"> Amazon Clone</a>
 </h1>
 
 <h3 align="center"></h3>
